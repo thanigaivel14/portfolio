@@ -23,7 +23,7 @@ const Project = () => {
       usecase:
         "Track daily tasks, plan ahead, and get reminder notifications",
       techUsed: ["MERN Stack", "Firebase Cloud Messaging"],
-      link: "#",
+      link: "https://todo-app-1-ds6b.onrender.com",
       gitLink: "https://github.com/thanigaivel14/Todo_App",
     },
   ];
