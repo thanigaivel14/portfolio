@@ -26,6 +26,15 @@ const Project = () => {
       link: "https://todo-app-1-ds6b.onrender.com",
       gitLink: "https://github.com/thanigaivel14/Todo_App",
     },
+    {
+      name: "E-commerce App",
+      details: "A full-stack e-commerce platform for browsing and purchasing products",
+      usecase:
+        "Users can register/login, add products to cart, place orders, and manage their shopping experience online",
+      techUsed: ["MERN Stack", "JWT Authentication"],
+      link: "#",
+      gitLink: "#",
+    }
   ];
 
   return (
