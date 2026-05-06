@@ -32,8 +32,8 @@ const Project = () => {
       usecase:
         "Users can register/login, add products to cart, place orders, and manage their shopping experience online",
       techUsed: ["MERN Stack", "JWT Authentication"],
-      link: "#",
-      gitLink: "#",
+      link: "https://e-commerce-1tks.onrender.com",
+      gitLink: "https://github.com/thanigaivel14/e-commerce",
     }
   ];
 
