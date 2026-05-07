@@ -14,8 +14,8 @@ const Project = () => {
       usecase:
         "Instead of money, users exchange skills and knowledge",
       techUsed: ["MERN Stack", "WebSocket", "Cloudinary"],
-      link: "#",
-      gitLink: "https://github.com/thanigaivel14/skillShare",
+      link: "https://skill-share-front.onrender.com",
+      gitLink: "https://github.com/thanigaivel14/skill-share",
     },
     {
       name: "Todo App",
